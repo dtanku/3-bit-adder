@@ -5,7 +5,7 @@ These are photomasks for a negative lithography process using "blue film" availa
 
 If you print these for use with toner transfer paper, they *MUST* be inverted.
 
-Print at A4, 100% scaling. US Letter or 93% fit-to-page scaling will not work.
+Print as A4, 100% scaling. US Letter or 93% fit-to-page scaling will not work.
 
 BOM includes: 
 * 2x 7486 XOR gates
